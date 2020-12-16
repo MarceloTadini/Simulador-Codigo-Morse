@@ -10,9 +10,6 @@
 #include "teclado.h"
 #include "stdio.h"
 
-//
-//      "-..-", "-.--", "--.."};
-
 
 unsigned int atrasoMin = 20;
 unsigned int atrasoMed = 500;
